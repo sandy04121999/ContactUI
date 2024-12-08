@@ -59,6 +59,8 @@ Install dependencies:
   ````
  2. Run the Angular development server (Contract UI): 
 
+ 
+	replace the API base url in cotract service "apiUrl" variable  
   ````bash
   ng serve
   ````
@@ -99,7 +101,7 @@ Styling:
 
 Bootstrap is used for styling to maintain a clean and responsive UI with minimal custom CSS.
 
-## .NET Core and EF Core:
+## .NET Core and Json file data:
 
 .NET Core provides a robust and scalable framework for building the backend API.
  json data using for CURD operations 
